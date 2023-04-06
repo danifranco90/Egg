@@ -10,6 +10,7 @@ package javaintro01;
  * @author Daniel
  */
 public class JavaIntro01 {
+    private String daniel;
 
     /**
      * @param args the command line arguments
